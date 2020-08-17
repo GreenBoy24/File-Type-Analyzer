@@ -1,0 +1,11 @@
+# Ignore the build directory
+build/
+
+# Ignore the test directory
+test/
+
+# The file containing yaml variables 
+*.yaml
+
+# The file containing class variables
+*.class
